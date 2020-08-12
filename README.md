@@ -1,0 +1,2 @@
+# HS_BG_WinLoss_Predictor
+Predict Hearthstone Battlegrounds Outcomes
